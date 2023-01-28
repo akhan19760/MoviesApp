@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95809297961",
+    "project_id": "popcornflix-daa7e",
+    "storage_bucket": "popcornflix-daa7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95809297961:android:1acee63d9af922f9228638",
+        "android_client_info": {
+          "package_name": "com.popcornflix.mobile_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95809297961-edn02u0133sglq0oposmbv090soeb9gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6wQFcAyrTg0gerRAlJjxE4Caw5YMobc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95809297961-edn02u0133sglq0oposmbv090soeb9gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
